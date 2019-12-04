@@ -13,7 +13,7 @@ body {
   font-family: 'Archivo Black', sans-serif;
 }
 a:hover{
-    text-decoration: underline #414240;
+    text-decoration: underline white;
 }
 a{
   color: black;
