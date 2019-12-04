@@ -95,10 +95,10 @@ h5{
   position: absolute;
 
   -webkit-animation-name: two;
-  -webkit-animation-duration: 10s;
+  -webkit-animation-duration: 13s;
   -webkit-animation-iteration-count: infinite;
   animation-name: two;
-  animation-duration: 10s;
+  animation-duration: 13s;
   animation-iteration-count: infinite;
 }
 
@@ -137,10 +137,10 @@ h5{
     transition: width 2s, height 2s, transform 2s;
 
    -webkit-animation-name: three;
-   -webkit-animation-duration: 10s;
+   -webkit-animation-duration: 13s;
    -webkit-animation-iteration-count: infinite;
    animation-name: three;
-   animation-duration: 10s;
+   animation-duration: 13s;
    animation-iteration-count: infinite;
  }
 
