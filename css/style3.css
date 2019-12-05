@@ -82,8 +82,8 @@ h5{
    /* box-shadow: 0 12px 16px 0 #B1FFB8,0 17px 50px 0 #B1FFB8; */
    width: 120px;
    height: 120px;
-   /* -webkit-transform: rotate(360deg);
-    transform: rotate(360deg); */
+   -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
  }
 
 .two {
@@ -123,8 +123,8 @@ h5{
    /* box-shadow: 0 12px 16px 0 white,0 17px 50px 0 white; */
    width: 100px;
    height: 100px;
-   /* -webkit-transform: rotate(360deg);
-    transform: rotate(360deg); */
+   -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
  }
 
  .three {
